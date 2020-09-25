@@ -8,11 +8,10 @@ The Script is written in `python` and for gui part `tkinter` is used.
 
 ## Screenshots
 
-[[Back to top]](https://github.com/Lovepreet-Singh-LPSK/LinuxShell#index)
 
-| ![Screen 1](https://github.com/Lovepreet-Singh-LPSK/LinuxShell/blob/master/pics/1.png) | ![Screen 2](https://github.com/Lovepreet-Singh-LPSK/LinuxShell/blob/master/pics/2.png) |
+| ![Screen 1](https://github.com/Lovepreet-Singh-LPSK/N-QueenGUI/blob/master/pics/1.png) | ![Screen 2](https://github.com/Lovepreet-Singh-LPSK/N-QueenGUI/blob/master/pics/2.png) |
 |---------------------------------------------|---------------------------------------------|
-| ![Screen 3](https://github.com/Lovepreet-Singh-LPSK/LinuxShell/blob/master/pics/3.png) | ![Screen 4](https://github.com/Lovepreet-Singh-LPSK/LinuxShell/blob/master/pics/4.png) |
+| ![Screen 3](https://github.com/Lovepreet-Singh-LPSK/N-QueenGUI/blob/master/pics/3.png) | ![Screen 4](https://github.com/Lovepreet-Singh-LPSK/N-QueenGUI/blob/master/pics/4.png) |
 
 ## How To Run Program
 
